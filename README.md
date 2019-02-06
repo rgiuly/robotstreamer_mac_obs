@@ -1,10 +1,11 @@
 # robotstreamer_mac_obs
 
-code for running obs and connecting to robotstreamer.com on mac
+Download code for running obs and connecting to robotstreamer.com on mac:
 
-[robotstreamer obs mac zip file](https://drive.google.com/file/d/1ibobaPBQFIvx5Q9_fz295ZW9K9Ua-_qk/view?usp=sharing)
+[robotstreamer obs mac zip file](https://drive.google.com/file/d/1De9IpH-Qg7rfuLWMf1GT2iW8v4xSoq2t/view?usp=sharing)
 
-the instructions for the osx app...
+
+The instructions for the osx app...
 - unzip
 - open folder
 - open pippy-app (rsmacops)
@@ -24,9 +25,9 @@ the instructions for the osx app...
 
 obs ->  rtmp -> pippy-app (ffmpeg) ->  robotstreamer
 
-every time you change settings in the pippy-app you have to restart it to make them work
+Every time you change settings in the pippy-app you have to restart it to make them work
 
-it uses apples terminalsay to speak.. get all voices with say -v '?'
+Note: It uses apples terminalsay to speak.. get all voices with say -v '?'
 
 
 
